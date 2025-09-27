@@ -5,9 +5,9 @@
 ### 👩🏻‍💻 Software Engineer | 🌐 Web Developer | 🌱 Learning in Public | 🎨 Tech Educator
 
 </div>
-##
+
 I'm Celz, a full-stack developer and tech educator building my digital world from the ground up. I create both code and educational content from concept to delivery, passionate about solving real problems and making tech education accessible.
-##
+
 
 ## **🌐 Full-Stack Capabilities | Languages and Tools**
 
@@ -33,10 +33,7 @@ I'm Celz, a full-stack developer and tech educator building my digital world fro
 
 
 
-</div>
-
-
-<h3 align="left">Support:</h3>
+## <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/celzv"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="celv" /></a></p><br><br>
 
 
