@@ -4,6 +4,8 @@
 
 ### 👩🏻‍💻 Software Engineer | 🌐 Web Developer | 🌱 Learning in Public | 🎨 Tech Educator
 
+</div>
+
 *"Building in public, learning together"*
 ### **🌐 Full-Stack Capabilities**
 
@@ -14,7 +16,7 @@
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-</div
+</div>
 # 🌸 Welcome to My Digital Garden
 
 <div align="center">
