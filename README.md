@@ -65,13 +65,13 @@ I'm Celz, a full-stack developer and tech educator building my digital world fro
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=celzvailoces&show_icons=true&theme=merko" height="130px"/>
+<img src="https://github-readme-stats.vercel.app/api?username=celzvailoces&show_icons=true&theme=merko" height="150px"/>
   
   <!-- Streak Stats -->
-  <img src="https://nirzak-streak-stats.vercel.app/?user=celzvailoces&theme=merko&hide_border=false" height="130px"/>
+  <!--<img src="https://nirzak-streak-stats.vercel.app/?user=celzvailoces&theme=merko&hide_border=false" height="130px"/> -->
   
   <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=celzvailoces&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="130px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=celzvailoces&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="150px"/>
 
 </div>
 
