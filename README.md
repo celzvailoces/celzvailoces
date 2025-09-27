@@ -1,4 +1,5 @@
-# ✨ Celz Vailoces | Digital Hub
+# ✨ Celz Vailoces | Digital Hub &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://buymeacoffee.com/celzv"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" /></a>
+
 
 <div align="center">
 
@@ -83,7 +84,7 @@ I'm Celz, a full-stack developer and tech educator building my digital world fro
 
 
 ## <h3 align="left">💰 You can help me by Donating</h3>
-<p><a href="https://www.buymeacoffee.com/celzv"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="celv" /></a></p><br><br>
+<p><a href="https://www.buymeacoffee.com/celzv"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="celzv" /></a></p><br><br>
 
 
 
