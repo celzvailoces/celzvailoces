@@ -25,11 +25,6 @@ I'm Celz, a full-stack developer and tech educator creating my version of the di
 ![YouTube Subscribers](https://img.shields.io/youtube/channel/subscribers/UCXXXXXXX?style=social)
 ![Visitor Count](https://komarev.com/gh/yourusername?color=ff69b4) -->
 
-*"Building in public, learning together"*
-
-[![Portfolio](https://img.shields.io/badge/🌐_Visit_My_Portfolio-FF6B6B?style=for-the-badge&logo=vercel&logoColor=white)](https://yourportfolio.com)
-[![Blog](https://img.shields.io/badge/📝_Read_My_Blog-000000?style=for-the-badge&logo=dev.to&logoColor=white)](https://yourblog.com)
-
 </div>
 
 ## 🚀 About My Journey
