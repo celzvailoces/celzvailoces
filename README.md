@@ -6,7 +6,8 @@
 
 </div>
 
-*"I'm Kevin, a full-stack developer and tech educator creating my version of the digital world, one project and lesson at a time. I build everything from scratch whether it's coding projects from planning to deployment, or educational content from concept to final delivery. I'm passionate about solving real problems with code and making technology education accessible to all."*
+I'm Celz, a full-stack developer and tech educator creating my version of the digital world, one project and lesson at a time. I build everything from scratch whether it's coding projects from planning to deployment, or educational content from concept to final delivery. I'm passionate about solving real problems with code and making technology education accessible to all.
+
 ### **🌐 Full-Stack Capabilities**
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
