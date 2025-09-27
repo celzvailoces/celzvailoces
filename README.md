@@ -37,17 +37,17 @@ I'm Celz, a full-stack developer and tech educator building my digital world fro
 
 <!---Github Stats From : https://github.com/anuraghazra/github-readme-stats-->
 ## <h3 align="left"> Contributions </h3>
-<div align="center">
-  
+
 <div align="center">
 
   <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=celzvailoces&show_icons=true&theme=merko" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=celzvailoces&show_icons=true&theme=merko" height="150px"/>
   
   <!-- Streak Stats -->
-  <img src="https://nirzak-streak-stats.vercel.app/?user=celzvailoces&theme=tokyonight&hide_border=false" height="180px"/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=celzvailoces&theme=tokyonight&hide_border=false" height="150px"/>
 
 </div>
+
 
 <!--![](https://github-readme-stats.vercel.app/api/top-langs/?username=celzvailoces&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact) -->
 
