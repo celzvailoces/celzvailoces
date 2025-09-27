@@ -9,7 +9,7 @@
 I'm Celz, a full-stack developer and tech educator building my digital world from the ground up. I create both code and educational content from concept to delivery, passionate about solving real problems and making tech education accessible.
 
 
-## **🌐 Full-Stack Capabilities | Languages and Tools**
+## **🌐 Full-Stack Capabilities | 🧰 Languages and Tools**
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
