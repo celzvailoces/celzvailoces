@@ -1,4 +1,3 @@
-## 🚀 Web Development Stack
 # 🚀 Welcome to My Digital Hub!
 
 <div align="center">
