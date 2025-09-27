@@ -1,10 +1,11 @@
 ## 🚀 Web Development Stack
+# 🚀 Welcome to My Digital Hub!
 
 <div align="center">
-*"Building in public, learning together"*
 
-[![Portfolio](https://img.shields.io/badge/🌐_Visit_My_Portfolio-FF6B6B?style=for-the-badge&logo=vercel&logoColor=white)](https://yourportfolio.com)
-[![Blog](https://img.shields.io/badge/📝_Read_My_Blog-000000?style=for-the-badge&logo=dev.to&logoColor=white)](https://yourblog.com)
+### 👩🏻‍💻 Software Engineer | 🌐 Web Developer | 🌱 Learning in Public | 🎨 Tech Educator
+
+*"Building in public, learning together"*
 ### **🌐 Full-Stack Capabilities**
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
