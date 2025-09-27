@@ -27,13 +27,14 @@ I'm Celz, a full-stack developer and tech educator building my digital world fro
 
 </div>
 
-<div align="center">
+<div style="display:flex;justify-content:center;align-items:center;height:100vh;">
+
 
 <!--![GitHub Stars](https://img.shields.io/github/stars/yourusername/yourrepo?style=social)
 ![YouTube Subscribers](https://img.shields.io/youtube/channel/subscribers/UCXXXXXXX?style=social)
 ![Visitor Count](https://komarev.com/gh/yourusername?color=ff69b4) -->
 
-</div>
+
 
 <!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=celzvailoces)](https://github.com/anuraghazra/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=celzvailoces&hide=contribs,prs)
@@ -42,11 +43,55 @@ I'm Celz, a full-stack developer and tech educator building my digital world fro
 
 <!---Github Stats From : https://github.com/anuraghazra/github-readme-stats-->
 ![celzvailoces's GitHub stats](https://github-readme-stats.vercel.app/api?username=celzvailoces&show_icons=true&theme=merko)
+![](https://nirzak-streak-stats.vercel.app/?user=celzvailoces&theme=tokyonight&hide_border=false)
 
-
+</div>
 
 
 
 ## <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/celzv"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="celv" /></a></p><br><br>
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=celzvailoces&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=celzvailoces&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=celzvailoces&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=celzvailoces&limit=5&theme=shadow_green&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=celzvailoces&icon=0&color=0)](https://visitcount.itsvg.in)
+
+  ## 💰 You can help me by Donating
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/celzv) 
+
+  
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
