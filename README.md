@@ -36,7 +36,7 @@ I'm Celz, a full-stack developer and tech educator creating my version of the di
 
 
 <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/celv"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="celv" /></a></p><br><br>
+<p><a href="https://www.buymeacoffee.com/celzv"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="celv" /></a></p><br><br>
 
 
 
