@@ -61,7 +61,7 @@ I'm Celz, a full-stack developer and tech educator building my digital world fro
 
 
 <!---Github Stats From : https://github.com/anuraghazra/github-readme-stats-->
-## <h3 align="left"> Contributions </h3>
+## <h3 align="left"> 🏆 Contributions </h3>
 
 <div align="center">
 
@@ -69,7 +69,7 @@ I'm Celz, a full-stack developer and tech educator building my digital world fro
   <img src="https://github-readme-stats.vercel.app/api?username=celzvailoces&show_icons=true&theme=merko" height="150px"/>
   
   <!-- Streak Stats -->
-  <img src="https://nirzak-streak-stats.vercel.app/?user=celzvailoces&theme=tokyonight&hide_border=false" height="150px"/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=celzvailoces&theme=merko&hide_border=false" height="150px"/>
 
 </div>
 
