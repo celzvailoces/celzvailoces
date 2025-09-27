@@ -1,30 +1,37 @@
-# 👋 Hello, I'm [Your Name]!
+# 🌸 Welcome to My Digital Garden
 
-👩🏻‍💻 **Software Engineer** | 📚 **Leverage Lifelong Learner** | 🎥 **Tech Educator**
+<div align="center">
 
-## 🚀 About Me
+![GitHub Stars](https://img.shields.io/github/stars/yourusername/yourrepo?style=social)
+![YouTube Subscribers](https://img.shields.io/youtube/channel/subscribers/UCXXXXXXX?style=social)
+![Visitor Count](https://komarev.com/gh/yourusername?color=ff69b4)
 
-I'm a passionate software engineer who believes in the power of sharing knowledge and growing together. My journey in technology is an open book - I document my experiences, challenges, and victories to help others navigating similar paths.
+### 👩🏻‍💻 Software Engineer | 🌱 Learning in Public | 🎨 Tech Educator
 
-- 👩🏻‍💻 **Software Engineer** documenting my professional journey in tech
-- 👩🏻‍🎓 **Information Technology graduate** from ZPPSU, Philippines
-- 🎨 Creating **educational content** on CS, IT, & productivity for YouTube & Facebook
-- 🌱 Cultivating my **#LearningInPublic** digital garden
-- 💭 Currently diving deep into **data analytics & visualization**
+*"Building in public, learning together"*
 
-## 🌸 My Digital Garden
+</div>
 
-I practice #LearningInPublic by sharing my:
-- Code experiments and projects
-- Technical write-ups and tutorials
-- Learning resources and roadmaps
-- Personal growth experiences in tech
+## 🚀 About My Journey
 
-## 📬 Let's Connect!
+<div align="center">
 
-I love connecting with fellow developers and learners. Feel free to reach out if you want to:
-- Collaborate on interesting projects
-- Discuss tech, learning, or productivity
-- Share your own learning journey
+| Category | Details | Status |
+|:--------:|:--------|:------:|
+| **🎯 Role** | Software Engineer & Content Creator | `🏢 Professional` |
+| **🎓 Education** | BS Information Technology @ ZPPSU, Philippines | `🎓 Graduated` |
+| **🚀 Current Focus** | Data Analytics & Visualization | `🔥 Learning` |
+| **🌱 Philosophy** | #LearningInPublic | `💫 Active` |
 
-*"The beautiful thing about learning is that no one can take it away from you." - B.B. King*
+</div>
+
+## 🛠️ Tech Stack & Tools
+
+### **📊 Data Analytics Focus**
+```python
+current_skills = {
+    "languages": ["Python", "SQL", "R"],
+    "visualization": ["Tableau", "Power BI", "Matplotlib", "Seaborn"],
+    "analysis": ["Pandas", "NumPy", "Jupyter"],
+    "future_goals": ["Apache Spark", "ML Algorithms", "D3.js"]
+}
