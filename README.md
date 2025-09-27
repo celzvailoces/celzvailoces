@@ -18,12 +18,11 @@ I'm Celz, a full-stack developer and tech educator creating my version of the di
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 </div>
-# 🌸 Welcome to My Digital Garden
 
 <div align="center">
 
-![GitHub Stars](https://img.shields.io/github/stars/yourusername/yourrepo?style=social)
-<!--![YouTube Subscribers](https://img.shields.io/youtube/channel/subscribers/UCXXXXXXX?style=social)
+<!--![GitHub Stars](https://img.shields.io/github/stars/yourusername/yourrepo?style=social)
+![YouTube Subscribers](https://img.shields.io/youtube/channel/subscribers/UCXXXXXXX?style=social)
 ![Visitor Count](https://komarev.com/gh/yourusername?color=ff69b4) -->
 
 ### 👩🏻‍💻 Software Engineer | 🌐 Web Developer | 🌱 Learning in Public | 🎨 Tech Educator
