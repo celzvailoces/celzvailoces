@@ -6,7 +6,7 @@
 
 </div>
 
-## I'm Celz, a full-stack developer and tech educator creating my version of the digital world, one project and lesson at a time. I build everything from scratch whether it's coding projects from planning to deployment, or educational content from concept to final delivery. I'm passionate about solving real problems with code and making technology education accessible to all.
+## I'm Celz, a full-stack developer and tech educator building my digital world from the ground up. I create both code and educational content from concept to delivery, passionate about solving real problems and making tech education accessible.
 
 ### **🌐 Full-Stack Capabilities | Languages and Tools**
 
