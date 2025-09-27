@@ -5,10 +5,11 @@
 ### 👩🏻‍💻 Software Engineer | 🌐 Web Developer | 🌱 Learning in Public | 🎨 Tech Educator
 
 </div>
+##
+I'm Celz, a full-stack developer and tech educator building my digital world from the ground up. I create both code and educational content from concept to delivery, passionate about solving real problems and making tech education accessible.
+##
 
-## I'm Celz, a full-stack developer and tech educator building my digital world from the ground up. I create both code and educational content from concept to delivery, passionate about solving real problems and making tech education accessible.
-
-### **🌐 Full-Stack Capabilities | Languages and Tools**
+## **🌐 Full-Stack Capabilities | Languages and Tools**
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
