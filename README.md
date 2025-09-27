@@ -41,22 +41,3 @@
 | **🌱 Philosophy** | #LearningInPublic | `💫 Active` |
 
 </div>
-
-## 🛠️ Tech Stack & Tools
-
-### **🌐 Web Development**
-```javascript
-const webDevStack = {
-  frontend: {
-    languages: ["JavaScript", "TypeScript", "HTML5", "CSS3"],
-    frameworks: ["React", "Vue", "Next.js", "Tailwind CSS"],
-    stateManagement: ["Redux", "Context API", "Zustand"]
-  },
-  backend: {
-    languages: ["Node.js", "Python", "PHP"],
-    frameworks: ["Express", "Django", "Laravel"],
-    databases: ["MongoDB", "PostgreSQL", "MySQL"],
-    auth: ["JWT", "OAuth", "Firebase Auth"]
-  },
-  tools: ["Git", "Docker", "Webpack", "Vite", "REST APIs", "GraphQL"]
-};
