@@ -1,30 +1,30 @@
-# 🌸 Welcome to My Digital Garden!
+# 👋 Hello, I'm [Your Name]!
 
-<div align="center">
+👩🏻‍💻 **Software Engineer** | 📚 **Leverage Lifelong Learner** | 🎥 **Tech Educator**
 
-### 👩🏻‍💻 Software Engineer | 📖 Learning in Public | 🎨 Content Creator
+## 🚀 About Me
 
-</div>
+I'm a passionate software engineer who believes in the power of sharing knowledge and growing together. My journey in technology is an open book - I document my experiences, challenges, and victories to help others navigating similar paths.
 
-## 🌱 About My Journey
+- 👩🏻‍💻 **Software Engineer** documenting my professional journey in tech
+- 👩🏻‍🎓 **Information Technology graduate** from ZPPSU, Philippines
+- 🎨 Creating **educational content** on CS, IT, & productivity for YouTube & Facebook
+- 🌱 Cultivating my **#LearningInPublic** digital garden
+- 💭 Currently diving deep into **data analytics & visualization**
 
-| 🎯 **Role** | 🎓 **Education** | 🚀 **Current Focus** |
-|------------|-----------------|---------------------|
-| Software Engineer documenting my professional journey | IT Graduate from ZPPSU, Philippines | Diving into Data Analytics & Visualization |
+## 🌸 My Digital Garden
 
-## 🎨 What I Create
-- **Educational Content** on Computer Science & IT
-- **Productivity Tips** for developers
-- **Tech Tutorials** on YouTube & Facebook
-- **Open Source** contributions and projects
+I practice #LearningInPublic by sharing my:
+- Code experiments and projects
+- Technical write-ups and tutorials
+- Learning resources and roadmaps
+- Personal growth experiences in tech
 
-## 📚 Learning in Public
-```python
-class MyJourney:
-    def __init__(self):
-        self.current_focus = "Data Analytics & Visualization"
-        self.philosophy = "#LearningInPublic"
-        self.platforms = ["YouTube", "Facebook", "GitHub"]
-        
-    def grow_together(self):
-        return "Sharing knowledge to help others grow!"
+## 📬 Let's Connect!
+
+I love connecting with fellow developers and learners. Feel free to reach out if you want to:
+- Collaborate on interesting projects
+- Discuss tech, learning, or productivity
+- Share your own learning journey
+
+*"The beautiful thing about learning is that no one can take it away from you." - B.B. King*
