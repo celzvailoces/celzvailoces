@@ -11,12 +11,15 @@ I'm Celz, a full-stack developer and tech educator building my digital world fro
 
 ## **🌐 Full-Stack Capabilities | Languages and Tools**
 
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-ffffff?style=for-the-badge&logo=linux&logoColor=black)
 
 <div align="center">
 
@@ -31,109 +34,16 @@ I'm Celz, a full-stack developer and tech educator building my digital world fro
 
 </div>
 
+<!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=celzvailoces)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=celzvailoces&hide=contribs,prs)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=celzvailoces&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=celzvailoces&commits_year=2020) -->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=celzvailoces&show_icons=true&theme=merko)
+
+
+
 
 
 ## <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/celzv"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="celv" /></a></p><br><br>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-# ✨ Celz Vailoces | Digital Hub
-
-<div align="center">
-
-### 👩🏻‍💻 Software Engineer | 🌐 Web Developer | 🌱 Learning in Public | 🎨 Tech Educator
-
-![GitHub followers](https://img.shields.io/github/followers/celzv?style=social)
-![GitHub User's stars](https://img.shields.io/github/stars/celzv?style=social)
-![Profile views](https://komarev.com/gh/count/celzv?color=blueviolet)
-![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCXXXXXXX?style=social)
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I've%20Written-1.5%20million%20lines%20of%20code-blue)
-
-</div>
-
-I'm Celz, a full-stack developer and tech educator building my digital world from the ground up. I create both code and educational content from concept to delivery, passionate about solving real problems and making tech education accessible.
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-![Celz's GitHub Stats](https://github-readme-stats.vercel.app/api?username=celzv&show_icons=true&theme=radical&hide_title=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=celzv&layout=compact&theme=radical&hide_title=true)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=celzv&theme=radical)
-
-</div>
-
-## 🛠️ **Tech Stack & Capabilities**
-
-### **🌐 Core Technologies**
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-
-### **💻 Development Tools**
-<div align="center">
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
-
-</div>
-
-## 🚀 **Current Projects & Metrics**
-
-<div align="center">
-
-| Metric | Status | Progress |
-|--------|--------|----------|
-| **Open Source Contributions** | `Active` | ![OS Contributions](https://img.shields.io/badge/Contributions-15+-brightgreen) |
-| **YouTube Content** | `Growing` | ![Videos](https://img.shields.io/badge/Tutorials-20+-red) |
-| **Students Mentored** | `Ongoing` | ![Mentoring](https://img.shields.io/badge/Mentored-50+-orange) |
-| **Projects Deployed** | `Active` | ![Deployments](https://img.shields.io/badge/Live-10+-success) |
-
-</div>
-
-## 📈 **Weekly Development Activity**
-
-```text
-🌱 This Week I Focused On:
-▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 85% Data Analytics Projects
-▓▓▓▓▓▓▓▓▓▓▓▓▓░░ 70% React Components
-▓▓▓▓▓▓▓▓▓░░░░░░ 55% Educational Content
-▓▓▓▓▓▓▓░░░░░░░░ 45% Open Source Contributions
